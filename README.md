@@ -36,19 +36,19 @@ To provide a visual and statistical comparison between Messi and Ronaldo from th
 
 ### Goals per Season
 
-![Goals per Season](messi_vs_ronaldo_goals_per_season.png)
+![Goals per Season](plots/messi_vs_ronaldo_goals_per_season.png)
 
 ### Assists per Season
 
-![Assists per Season](messi_vs_ronaldo_assists.png)
+![Assists per Season](plots/messi_vs_ronaldo_assists.png)
 
 ### Dribbles per Season
 
-![Dribbles per Season](messi_vs_ronaldo_dribbles.png)
+![Dribbles per Season](plots/messi_vs_ronaldo_dribbles.png)
 
 ### Man of the Match Awards
 
-![MOTM per Season](messi_vs_ronaldo_motm.png)
+![MOTM per Season](plots/messi_vs_ronaldo_motm.png)
 
 ## 📈 Sample Data
 
